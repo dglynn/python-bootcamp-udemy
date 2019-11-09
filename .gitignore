@@ -1,4 +1,4 @@
 .ipynb_checkpoints*
 .vscode*
 .tmp
-.pyc
+.py[co]
